@@ -7,7 +7,10 @@
    
 <p> 
     by: Group G <br>
+  Nicdao, Christine Ann P. <br>
     Nicolas, Pauliana Jamie R. <br>
+  Orelly, Camille A. <br>
+  Pangilinan, Vincent Paul L. <br>
 </p>
 
 <h3>What is Disruptive Technology?</h3>
