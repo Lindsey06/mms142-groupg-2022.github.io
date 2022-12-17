@@ -7,6 +7,7 @@
    
 <p> 
     by: Group G <br>
+  Marasigan, Elijah Grant L. <br>
   Morong, Christine Joy M. <br>
   Nicdao, Christine Ann P. <br>
     Nicolas, Pauliana Jamie R. <br>
