@@ -7,6 +7,7 @@
    
 <p> 
     by: Group G <br>
+  Morong, Christine Joy M. <br>
   Nicdao, Christine Ann P. <br>
     Nicolas, Pauliana Jamie R. <br>
   Orelly, Camille A. <br>
