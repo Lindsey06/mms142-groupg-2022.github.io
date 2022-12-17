@@ -12,6 +12,7 @@
     Nicolas, Pauliana Jamie R. <br>
   Orelly, Camille A. <br>
   Pangilinan, Vincent Paul L. <br>
+  Padayogdog, Lindsey Ann Z. <br>
 </p>
 
 <h3>What is Disruptive Technology?</h3>
