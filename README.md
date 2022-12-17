@@ -10,6 +10,7 @@
   Manopol, Trisha Marie D. <br>
   Maranan, Jasmina Isabel S. <br>
   Marasigan, Elijah Grant L. <br>
+  Matura, Jahzeel Angelica L. <br>
   Morong, Christine Joy M. <br>
   Nicdao, Christine Ann P. <br>
   Nicolas, Pauliana Jamie R. <br>
