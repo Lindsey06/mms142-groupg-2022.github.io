@@ -7,10 +7,11 @@
    
 <p> 
     by: Group G <br>
+  Manopol, Trisha Marie D. <br>
   Marasigan, Elijah Grant L. <br>
   Morong, Christine Joy M. <br>
   Nicdao, Christine Ann P. <br>
-    Nicolas, Pauliana Jamie R. <br>
+  Nicolas, Pauliana Jamie R. <br>
   Orelly, Camille A. <br>
   Palmado, Yzabel Joei P. <br>
   Pangilinan, Vincent Paul L. <br>
