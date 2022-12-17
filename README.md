@@ -15,6 +15,7 @@
   Orelly, Camille A. <br>
   Palmado, Yzabel Joei P. <br>
   Pangilinan, Vincent Paul L. <br>
+  Padayogdog, Lindsey Ann Z. <br>
 </p>
 
 <h3>👩‍💻What is Disruptive Technology?👩‍💻</h3>
