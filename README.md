@@ -7,6 +7,7 @@
    
 <p> 
     by: Group G <br>
+    Nicdao, Christine Anne P. <br>
     Nicolas, Pauliana Jamie R. <br>
     Orelly, Camille A. <br>
     Pangilinan, Vincent Paul L. <br>
