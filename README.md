@@ -10,14 +10,16 @@
   Manopol, Trisha Marie D. <br>
   Maranan, Jasmina Isabel S. <br>
   Marasigan, Elijah Grant L. <br>
+  Martinez, Aliyah Cassandra <br>
   Matura, Jahzeel Angelica L. <br>
+  Molina, Ciphia May <br>
   Morong, Christine Joy M. <br>
   Nicdao, Christine Ann P. <br>
   Nicolas, Pauliana Jamie R. <br>
   Orelly, Camille A. <br>
+  Padayogdog, Lindsey Ann Z. <br>
   Palmado, Yzabel Joei P. <br>
   Pangilinan, Vincent Paul L. <br>
-  Padayogdog, Lindsey Ann Z. <br>
 </p>
 
 <h3>👩‍💻What is Disruptive Technology?👩‍💻</h3>
