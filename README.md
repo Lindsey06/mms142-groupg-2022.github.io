@@ -8,6 +8,7 @@
 <p> 
     by: Group G <br>
     Nicolas, Pauliana Jamie R. <br>
+    Orelly, Camille A. <br>
 </p>
 
 <h3>What is Disruptive Technology?</h3>
