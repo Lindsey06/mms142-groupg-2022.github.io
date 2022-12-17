@@ -8,6 +8,7 @@
 <p> 
     by: Group G <br>
   Manopol, Trisha Marie D. <br>
+  Maranan, Jasmina Isabel S. <br>
   Marasigan, Elijah Grant L. <br>
   Morong, Christine Joy M. <br>
   Nicdao, Christine Ann P. <br>
