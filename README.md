@@ -7,16 +7,14 @@
    
 <p> 
     by: Group G <br>
- Maranan, Jasmina Isabel S.<br>
- Morong, Christine Joy M. <br>
+  Morong, Christine Joy M. <br>
   Nicdao, Christine Ann P. <br>
     Nicolas, Pauliana Jamie R. <br>
   Orelly, Camille A. <br>
   Pangilinan, Vincent Paul L. <br>
-  Padayogdog, Lindsey Ann Z. <br>
 </p>
 
-<h3>What is Disruptive Technology?</h3>
+<h3>👩‍💻What is Disruptive Technology?👩‍💻</h3>
 
 <p>
 It is no stranger to all that technology is affecting our way of living. In terms of education, communication, businesses, etc., these sectors have been thriving through its help. Over time, technology has given significant benefits through the creation of innovative concepts to provide comfort, ease, and convenience. However, despite its benefits, it also has its consequences; one of them is known as Disruptive Technology. <br>
@@ -26,7 +24,7 @@ According to Tim Smith (2022), Disruptive Technology contains harmful effects, a
 The negative consequences of technological disruption on a variety of enterprises in the 21st century, one of which includes artificial intelligence. Hence, AI is a component of the current wave of disruptive technologies. For instance, the harm of AI in applications is a major concern, especially for data privacy and protection. Privacy is violated and social manipulation, such as "data poisoning," is conceivable when machine learning-based data is altered (Brundage et al., 2018). One of the ways of doing this is through bots, where cybercriminals abuse artificial intelligence to commit crimes such as ransomware and email phishing. This is comparable to how people have created deepfake, a technology that uses AI to build a convincing digital duplicate of a person’s face, which can then be used to create content based on it. However, this technology, while it contains fun and entertainment for many, is also being used in disturbing ways. For instance, the rising usage and realism of deepfake material for fake sexual content and smear campaigns make this rather alarming in the modern times. <br>
 </p>
 
-<h3>What is Artificial Intelligence (in the context of Data Privacy)?</h3>
+<h3>🧠What is Artificial Intelligence (in the context of Data Privacy)?🧠</h3>
 
 <p>
 While computers do functions that require humans to carry out a task, Artificial Intelligence can do the same function on its own through the same computer if programmed correctly; therefore AI can copy human intelligence in some specific tasks (Anadot, n.d.). <br>
@@ -38,7 +36,7 @@ While privacy protection is vital, recent technological advances, including webs
 Allowing our data to be in the hands of verified websites may be safe. However, with the widespread existence of malicious websites and applications, it is now hard to determine the safety of these applications, leaving our data privacy unprotected and making us, netizens, more vulnerable to data breaches and scams. With the evolution of artificial intelligence throughout the years, stealing our identities has become much easier. <br>
 </p>
 
-<h3>Why is AI considered Disruptive Technology?</h3>
+<h3>🌐Why is AI considered Disruptive Technology?🌐</h3>
 
 <p>
 Artificial intelligence is considered a disruptive technology as it prompts disruptive innovation that brought us game-changing products and services able to serve low-end or unserved consumers and migrate to the mainstream that replaced the sustaining-based companies (Khamis, 2019). As much as it is a great chance for innovation that greatly alters the way how consumers and businesses function, it has its downsides, especially in the context of data privacy. To expound, it gathers our information based on what sites we access, what apps we download, what we search on the Internet, etc. It affects the way we use the Internet to give us an “easier” time surfing it based on our interests. It encompasses predictive analytics that procures advantages to the sites or products aligned within the algorithm that the AI has identified. Predictive analytics is simply indicative of another useful characteristic of complex AI programs: pattern recognition. In a study by Gravrock (2022), A lot of our data is used to develop AI-based technologies. How it functions will depend on how much information it can collect from us, resulting in relying on the quality of data it manages to gather. With this, consumers tend to be concerned about their privacy when the former is mentioned. In fact, according to the European Consumer Organization (2020, as cited in Gravrock, 2022), one survey indicated that 45%-60% of Europeans agreed that AI will lead to the profound abuse of personal information. <br>
