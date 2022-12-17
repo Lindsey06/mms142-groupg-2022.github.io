@@ -12,6 +12,7 @@
   Nicdao, Christine Ann P. <br>
     Nicolas, Pauliana Jamie R. <br>
   Orelly, Camille A. <br>
+  Palmado, Yzabel Joei P. <br>
   Pangilinan, Vincent Paul L. <br>
 </p>
 
